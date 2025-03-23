@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavesh99324&label=Profile%20views&color=0e75b6&style=flat" alt="gavesh99324" /> </p>
 
-- 🌱 I’m currently learning **Python, JavaScript & React.js**
+- 🌱 I’m currently learning **Python, JavaScript & MERN**
 
 - 📫 How to reach me **gaveshtishanj@gmail.com**
 
