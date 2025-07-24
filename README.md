@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Existing -->
+  <!-- Core Web & Programming Languages -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 
-  <!-- Additional -->
+  <!-- DevOps & Tools -->
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
@@ -42,13 +42,13 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>
   </a>
   <a href="https://www.sonatype.com/products/repository-oss" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/1158226?s=200&v=4" alt="nexus" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
@@ -72,6 +72,7 @@
     <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/>
   </a>
 </p>
+
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gavesh99324&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
