@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gavesh Jayasuriya</h1>
-<h3 align="center">A passionate about frontend development and Machine Learning Enthusiast</h3>
+<h3 align="center">A passionate about DevOps and Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavesh99324&label=Profile%20views&color=0e75b6&style=flat" alt="gavesh99324" /> </p>
 
-- 🌱 I’m currently learning **Python, JavaScript & MERN**
+- 🌱 I’m currently learning **DevOps and ML**
 
 - 📫 How to reach me **gaveshtishanj@gmail.com**
 
