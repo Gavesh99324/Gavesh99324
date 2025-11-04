@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gavesh Jayasuriya</h1>
-<h3 align="center">A passionate about Full Stack, DevOps and ML</h3>
+<h3 align="center">A passionate about Full Stack, AI Agents, DevOps and ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavesh99324&label=Profile%20views&color=0e75b6&style=flat" alt="gavesh99324" /> </p>
 
