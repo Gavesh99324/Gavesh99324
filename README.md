@@ -13,6 +13,20 @@
    </a> 
  </p> 
 
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavesh99324&layout=compact&langs_count=10&theme=gruvbox" alt="languages"/>
+-->
+
+
+<!--
  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gavesh99324&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+-->
+
+<img
+  width="325"
+  align="center"
+  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gavesh99324&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=00ff9c&title_color=003b2f&text_color=003b2f&border_color=00e68a"
+  alt="top langs"
+/>
 
 
