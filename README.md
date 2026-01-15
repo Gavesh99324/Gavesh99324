@@ -31,10 +31,19 @@
 />
 -->
 
+<!--
 <img
   width="325"
   align="center"
   src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gavesh99324&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=0D111700&title_color=4ADE80&text_color=E5FFE9&border_color=22C55E"
+  alt="top langs"
+/>
+-->
+
+<img
+  width="325"
+  align="center"
+  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gavesh99324&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=FF8C0000"
   alt="top langs"
 />
 
