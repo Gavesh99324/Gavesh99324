@@ -3,7 +3,9 @@
  
  <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=gavesh99324&label=Profile%20views&color=0e75b6&style=flat" alt="gavesh99324" /> 
- </p> - 📫 How to reach me *gaveshtishanj@gmail.com*
+ </p> 
+ 
+ - 📫 How to reach me **gaveshtishanj@gmail.com**
  
  <h3 align="left">Connect with me:</h3> 
  
