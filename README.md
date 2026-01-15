@@ -22,14 +22,14 @@
  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gavesh99324&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 -->
 
-<!--
+
 <img
   width="325"
   align="center"
   src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gavesh99324&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=00ff9c&title_color=003b2f&text_color=003b2f&border_color=00e68a"
   alt="top langs"
 />
--->
+
 
 <!--
 <img
@@ -40,12 +40,13 @@
 />
 -->
 
+<!--
 <img
   width="325"
   align="center"
   src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gavesh99324&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=FF8C001A"
   alt="top langs"
 />
-
+-->
 
 
