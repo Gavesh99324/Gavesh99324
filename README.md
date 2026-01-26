@@ -4,7 +4,8 @@
  <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=gavesh99324&label=Profile%20views&color=0e75b6&style=flat" alt="gavesh99324" /> 
  </p> 
- 
+
+ <!--
  - 📫 How to reach me **gaveshtishanj@gmail.com**
  
  <h3 align="left">Connect with me:</h3> 
@@ -14,6 +15,25 @@
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gavesh jayasuriya" height="30" width="40" />
    </a> 
  </p> 
+-->
+| 📫 How to reach me **gaveshtishanj@gmail.com** | <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gavesh99324&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=0D111700&title_color=4ADE80&text_color=E5FFE9&border_color=22C55E" alt="top langs" /> |
+|---|---|
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/gavesh-jayasuriya-8733a5249" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a> 
+</p>
+
+
+ 
+
+
+
+
+ 
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavesh99324&layout=compact&langs_count=10&theme=gruvbox" alt="languages"/>
@@ -33,6 +53,7 @@
 />
 -->
 
+<!--
 
 <img
   width="325"
@@ -40,7 +61,7 @@
   src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gavesh99324&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=0D111700&title_color=4ADE80&text_color=E5FFE9&border_color=22C55E"
   alt="top langs"
 />
-
+-->
 
 <!--
 <img
